@@ -57,11 +57,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yimis-source&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimis-source&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yimis-source&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -69,13 +64,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yimis-source&theme=tokyo-night&hide_border=true" />
 </div>
 
----
-
-## 🏆 Logros de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yimis-source&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
 
 ---
 
