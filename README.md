@@ -15,7 +15,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten 
 - 🔭 Actualmente trabajando en proyectos Backend
 - 🌱 Aprendiendo continuamente nuevas tecnologías
 - 💡 Interesado en desarrollo web, backend y soluciones cloud
-- ⚡ Dato curioso: El código limpio y las soluciones rapidas son mi pasion
+- ⚡ Dato curioso: El código limpio y las soluciones rápidas son mi pasión
 
 ---
 
@@ -71,7 +71,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten 
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yimis-source&repo=dataset-cleanest)&theme=tokyonight)](https://github.com/yimis-source/dataset-cleanest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yimis-source&repo=dataset-cleanest&theme=tokyonight)](https://github.com/yimis-source/dataset-cleanest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yimis-source&repo=Esp32RocketFlutter&theme=tokyonight)](https://github.com/yimis-source/Esp32RocketFlutter)
 
 </div>
