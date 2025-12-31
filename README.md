@@ -12,10 +12,10 @@
 
 Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten positivamente. Me encanta explorar nuevas tecnologías y enfrentar desafíos complejos.
 
-- 🔭 Actualmente trabajando en proyectos innovadores
+- 🔭 Actualmente trabajando en proyectos Backend
 - 🌱 Aprendiendo continuamente nuevas tecnologías
 - 💡 Interesado en desarrollo web, backend y soluciones cloud
-- ⚡ Dato curioso: El código limpio es mi lenguaje de amor
+- ⚡ Dato curioso: El código limpio y las soluciones rapidas son mi pasion
 
 ---
 
