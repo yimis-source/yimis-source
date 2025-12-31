@@ -71,8 +71,8 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten 
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yimis-source&repo=dataset-cleanest&theme=tokyonight)](https://github.com/yimis-source/dataset-cleanest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yimis-source&repo=Esp32RocketFlutter&theme=tokyonight)](https://github.com/yimis-source/Esp32RocketFlutter)
+[![dataset-cleanest)](https://github-readme-stats.vercel.app/api/pin/?username=yimis-source&repo=dataset-cleanest&theme=tokyonight)](https://github.com/yimis-source/dataset-cleanest)
+[![Esp32RocketFlutter](https://github-readme-stats.vercel.app/api/pin/?username=yimis-source&repo=Esp32RocketFlutter&theme=tokyonight)](https://github.com/yimis-source/Esp32RocketFlutter)
 
 </div>
 
